@@ -13,3 +13,5 @@ temp*
 
 # Отслеживать файл temp_important.txt, даже если есть шаблон на игнорирование temp*
 !temp_important.txt
+secret_1.env
+.env
